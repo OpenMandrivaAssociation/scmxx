@@ -10,7 +10,6 @@ License:	GPL
 Group:		Communications
 URL:		http://www.hendrik-sattler.de/scmxx
 Source:		http://prdownloads.sourceforge.net/scmxx/%{name}-%{version}.tar.bz2
-BuildRoot:	%{_tmppath}/%{name}-buildroot
 
 %description
 SCMxx is a console program that allows you to exchange certain types of data
