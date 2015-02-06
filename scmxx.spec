@@ -1,6 +1,6 @@
 %define name 	scmxx
 %define version 0.9.0
-%define release %mkrel 6
+%define release 7
 
 Name:		%{name}
 Summary:	Exchange data with Siemens mobile phones
