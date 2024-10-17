@@ -8,7 +8,7 @@ Version:	%{version}
 Release:	%{release}
 License:	GPL
 Group:		Communications
-URL:		http://www.hendrik-sattler.de/scmxx
+URL:		https://www.hendrik-sattler.de/scmxx
 Source:		http://prdownloads.sourceforge.net/scmxx/%{name}-%{version}.tar.bz2
 BuildRoot:	%{_tmppath}/%{name}-buildroot
 
