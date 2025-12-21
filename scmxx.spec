@@ -12,6 +12,11 @@ URL:		https://www.hendrik-sattler.de/scmxx
 Source:		http://prdownloads.sourceforge.net/scmxx/%{name}-%{version}.tar.bz2
 BuildRoot:	%{_tmppath}/%{name}-buildroot
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 SCMxx is a console program that allows you to exchange certain types of data
 with mobile phones made by Siemens. Some of the data types that can be
